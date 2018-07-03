@@ -5,5 +5,5 @@
 #--no--ff git merge
 #
 
-#
+# First time push remote
 #
